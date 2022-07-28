@@ -1,8 +1,8 @@
 ### Olá, eu sou o Gabriel Amorim, seja bem-vindo!😅
 
 ► 💻 Atualmente trabalho com: Teste de Software <br>
-► 🌱 Estudando: Flutter <br>
-► 👨‍🦱 Idade: 21 Anos <br>
+► 🌱 Estudando: Python <br>
+► 👨‍🦱 Idade: 22 Anos <br>
 
 ##
 <div align="center">
